@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @audu97
-- 👀 I’m interested in python machine learning, natural language processing
-- 🌱 I’m currently learning natural language processing with spacy
-- 💞️ I’m looking to collaborate on anything machine learning and natural language processing
+- 👀 I’m interested in python machine learning, natural language processing, data science
+- 💞️ I’m looking to collaborate on anything machine learning, natural language processing, and data science
 - 📫 How to reach me on twitter @_ephraim_A
 
 <!---
