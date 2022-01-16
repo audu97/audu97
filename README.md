@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @audu97
-- 👀 I’m interested in python machine learning, natural language processing, data science
-- 💞️ I’m looking to collaborate on anything machine learning, natural language processing, and data science
+- 👋 Hi, I’m Ephraim
+- 👀 I’m interested in Android Developement with Kotlin
+- 💞️ I’m looking to collaborate on anything Android
 - 📫 How to reach me on twitter @_ephraim_A
 
 <!---
