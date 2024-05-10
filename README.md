@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ephraim
-- 👀 I’m interested in Android Developement with Kotlin
-- 💞️ I’m looking to collaborate on anything Android
 - 📫 How to reach me on twitter @_ephraim_A
 
 <!---
